@@ -6,7 +6,7 @@ public class Compte {
     public String numero;
     public double solde;
     public String typeCompte;
-    public ArrayList<String> historique; // simplified transaction history
+    public ArrayList<String> historique;
 
     public Compte(String num, String type) {
         this.numero = num;
