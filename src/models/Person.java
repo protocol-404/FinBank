@@ -16,7 +16,7 @@ public class Person {
     }
 
     public void setName(String n) {
-        name = n;
+        name = n; 
     }
 
     public String getSurname() {

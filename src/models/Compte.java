@@ -9,7 +9,7 @@ public class Compte {
     public ArrayList<String> historique;
 
     public Compte(String num, String type) {
-        this.numero = num;
+        this.numero = num; 
         this.typeCompte = type;
         this.solde = 0;
         historique = new ArrayList<>();

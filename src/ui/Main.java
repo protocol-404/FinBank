@@ -16,7 +16,7 @@ public class Main {
 
         boolean running = true;
         while (running) {
-            System.out.println("\n=== MAIN MENU ===");
+            System.out.println("\n=== MAIN MENU ==="); 
             System.out.println("1. Manager Login");
             System.out.println("2. Client Login");
             System.out.println("3. Exit");

@@ -19,7 +19,7 @@ public class Transaction {
         this.id = id;
     }
 
-    public String getType() {
+    public String getType() { 
         return type;
     }
 

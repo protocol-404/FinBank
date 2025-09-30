@@ -13,6 +13,6 @@ public class Manager extends Person {
     }
 
     public void setIdManager(String idManager) {
-        this.idManager = idManager;
+        this.idManager = idManager; 
     }
 }

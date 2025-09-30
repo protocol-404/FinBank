@@ -3,7 +3,7 @@ package models;
 import java.util.HashMap;
 
 public class Client extends Person {
-    public String idClient;
+    public String idClient; 
     public HashMap<String, Compte> accounts;
 
     public Client(String name, String surname, String id) {
